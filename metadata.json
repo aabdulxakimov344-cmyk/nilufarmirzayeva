@@ -1,0 +1,6 @@
+{
+  "name": "EconHistory - Iqtisodiy Ta'limotlar Tarixi",
+  "description": "Iqtisodiy ta'limotlar tarixi bo'yicha interaktiv o'quv platformasi: 15 ta mavzu, xronologik timeline, olimlar biografiyalari, mini-testlar va 3 tilli qomusiy qo'llanma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
